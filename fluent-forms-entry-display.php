@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:     Fluent Forms Entry Display
- * Plugin URI:      na
+ * Plugin URI:      https://elodpal.ro
  * Description:     Displays Fluent Forms entries for multiple form IDs in a single table via a shortcode [ff_entries_table form_ids="ID1,ID2,ID3" fields="field1,field2" labels="Label 1,Label 2"]. Assumes you provide matching fields and labels for each language.
  * Version:         1.1.3
  * Author:          Elod Pal
- * Author URI:      # (Optional: Link to your website)
+ * Author URI:      https://elodpal.ro
  * License:         GPL v2 or later
  * License URI:     https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:     fluent-forms-entry-display
